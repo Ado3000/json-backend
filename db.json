@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "news": 
+    {  "id": 1,
+       "author": "Ado",
+       "articleName": "First article ",
+       "header": "Sub-heading",
+       "paragraph1": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+       "paragraph2": "Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",                   
+       "paragraph4": "Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.",
+       "image1": "https://www.gamereactor.se/media/51/callduty_3245183_650x.png"
+    }
 }
